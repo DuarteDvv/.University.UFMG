@@ -1,3 +1,6 @@
+[submodule ".UFMG.Pds1.ProjetoFinal"]
+	path = .UFMG.Pds1.ProjetoFinal
+	url = https://github.com/DuarteDvv/.UFMG.Pds1.ProjetoFinal
 [submodule ".UFMG.Pds2.CppVpls"]
 	path = .UFMG.Pds2.CppVpls
 	url = https://github.com/DuarteDvv/.UFMG.Pds2.CppVpls
